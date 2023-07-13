@@ -1,0 +1,7 @@
+{
+    "samples_per_side": 300,
+
+    "max_iterations": 10000,
+    "time_samples": 200,
+    "sampling_method": "log"
+}

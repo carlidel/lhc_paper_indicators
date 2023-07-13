@@ -1,0 +1,1 @@
+python3 xsuite_code/run_sim_normed.py --mask tracking_files/configs/mask_worst.json --tracking tracking_files/configs/tracking_1e4_all.json --kind log_displacement --output local --zeta min --force-cpu --particles tracking_files/config_specific_particles/my_particles.json
